@@ -6,7 +6,7 @@ import matplotlib as plt
 import seaborn as sns
 sns.set()
 
-# show the title
+# show the titleS
 st.title('Titanic-App-yutingfu')
 
 # read csv and show the dataframe
